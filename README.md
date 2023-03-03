@@ -25,7 +25,7 @@ Why did I create this dataset? As global warming becomes worse, countries across
 # Dataset History
 2023-03-02 - Dataset is created (8,462 days after temporal coverage start date).
 
-[GitHub Repository]() - The same data but on GitHub.
+[Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020) - The same data but on Kaggle.
 
 # Code Starter
 [Link to Notebook]()
