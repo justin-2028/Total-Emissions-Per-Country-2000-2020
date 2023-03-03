@@ -28,4 +28,4 @@ Why did I create this dataset? As global warming becomes worse, countries across
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/total-emissions-per-country-2000-2020) - The same data but on Kaggle.
 
 # Code Starter
-[Link to Notebook]()
+[Link to Notebook](https://www.kaggle.com/code/justin2028/total-emissions-per-country-code-starter/notebook)
