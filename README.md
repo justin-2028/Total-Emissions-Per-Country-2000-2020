@@ -12,8 +12,8 @@ Why did I create this dataset? As global warming becomes worse, countries across
 # Data Sources
 ##### The primary data source used was the United Nations's Food and Agriculture Organization (FAO) website, which publishes tabular data pertaining to global environmental issues. Considering the meticulous documentation of government statistics by such a legally constituted IGO, no other authority is more equipped to provide insight on emission rates.
 
-1. [The Food and Agriculture Organization's  ](https://www.fao.org/faostat/en/#data/GT) - The Food and Agriculture Organization (FAO) has published yearly updates on unemployment rates since 1961. However, I narrowed down the time period covered to 20 years for simplicity's sake. 
-2. [The Food and Agriculture Organization's  ](https://www.fao.org/faostat/en/#definitions) - The Food and Agriculture Organization (FAO) released a detailed overview of their emissions data, the methodology behind their data, and the proper definitions and terminologies for the variables tracked. The guide mainly provided essential contextual knowledge needed to create a meaningful dataset.
+1. [The Food and Agriculture Organization's Emissions Total Data](https://www.fao.org/faostat/en/#data/GT) - The Food and Agriculture Organization (FAO) has published yearly updates on unemployment rates since 1961. However, I narrowed down the time period covered to 20 years for simplicity's sake. 
+2. [The Food and Agriculture Organization's Definitions and Standards](https://www.fao.org/faostat/en/#definitions) - The Food and Agriculture Organization (FAO) released a detailed overview of their emissions data, the methodology behind their data, and the proper definitions and terminologies for the variables tracked. The guide mainly provided essential contextual knowledge needed to create a meaningful dataset.
 
 # Statistics Being Tracked
 - Area (Country)
